@@ -46,3 +46,8 @@ CSS
 <a name="git"></a>
 git
 ----
+
+- **Adding a repository** --
+```bash
+git remote add origin https://github.com/[USERNAME]/[REPOSITORY].git
+```
